@@ -13,5 +13,5 @@ public class inicio {
         FormAlumnos objetoFormulario = new FormAlumnos();
         objetoFormulario.setVisible(true);
     }
-    
+     
 }
